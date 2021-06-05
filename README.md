@@ -1,16 +1,6 @@
-# hello_fultter_dio
+# PHP Rest API 연동 Flutter CRUD 앱 예제
+아래 링크의 내용을 바탕으로 일부 코드를 현재 flutter 버전에 맞게 수정했습니다.(null처리 등등)
+https://github.com/progh2/flutter-crud-application-using-php-rest-api.git
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter Study 관련 프로젝트입니다.
+https://github.com/jimingoal/projectx/tree/ham
